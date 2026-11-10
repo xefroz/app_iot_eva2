@@ -1,0 +1,1 @@
+E:\intento 5 para ver el disenio\SALAAUTOMATIZADA\app\src\test\java\cl\carpay\salaautomatizada\ExampleUnitTest.kt
